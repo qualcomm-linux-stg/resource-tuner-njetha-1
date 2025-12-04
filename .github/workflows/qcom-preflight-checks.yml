@@ -20,5 +20,5 @@ jobs:
         copyright-license-detector: true   # default: true
         pr-check-emails: true              # default: true
         dependency-review: true            # default: true
-        semgrep-cli-options: '--exclude=gets.c'
+        semgrep-cli-options: '--verbose'
 
